@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# subscribe.py - MQTT subscribe script
+# subscribe.py - test subscribe script for MQTT
 
 import sys
 import time

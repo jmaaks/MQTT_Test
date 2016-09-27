@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# main.py - test script for Raspberry pi
+# main.py - test publish script for MQTT
 
 import sys
 import time
